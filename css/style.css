@@ -18,7 +18,7 @@
 .slider {
     font-family: 'Raleway', sans-serif;
     padding-top: 250px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.425)), url("/Assets/andrea-cau-nV7GJmSq3zc-unsplash.jpg") ; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.425)), url("../Assets/andrea-cau-nV7GJmSq3zc-unsplash.jpg") ; 
     color: white;
     background-size: cover;
     background-position: center;
@@ -149,7 +149,7 @@
 
 /* ask-ours */
 .ask-ours {
-    background: linear-gradient(to right, rgba(153, 144, 144, 0.432), rgba(0, 0, 0, 0.527)) ,url(/Assets/code.desktop.png) ;
+    background: linear-gradient(to right, rgba(153, 144, 144, 0.432), rgba(0, 0, 0, 0.527)) ,url("../Assets/code.desktop.png") ;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
